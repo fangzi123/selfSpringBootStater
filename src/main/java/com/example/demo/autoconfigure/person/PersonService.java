@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.autoconfigure.person;
 
 import lombok.Builder;
 import lombok.Data;

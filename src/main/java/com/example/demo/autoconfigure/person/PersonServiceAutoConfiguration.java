@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.autoconfigure.person;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;

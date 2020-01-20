@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.autoconfigure.person;
  
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
